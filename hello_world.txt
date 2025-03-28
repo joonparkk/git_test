@@ -1,0 +1,3 @@
+This is the hello_world text file.
+Used for learning git commands in the command line terminal.
+Thank you for reading!
